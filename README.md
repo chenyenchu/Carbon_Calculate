@@ -9,7 +9,7 @@
 * HTML
 * CSS
 * Svelte
-* JvaScript
+* JavaScript
 * Firebase
 
 ## 檔案介紹
