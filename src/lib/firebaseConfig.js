@@ -11,7 +11,7 @@ import { getAuth, signInWithEmailAndPassword } from "firebase/auth";
 // Your web app's Firebase configuration
 
 export const firebaseConfig = {
-    apiKey: "AIzaSyD3W2mArMqAJy5QRkqD9suSEWjQOQOMtds",
+    apiKey: "",
     authDomain: "mycarbonrecord.firebaseapp.com",
     projectId: "mycarbonrecord",
     storageBucket: "mycarbonrecord.appspot.com",
